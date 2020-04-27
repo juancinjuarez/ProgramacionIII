@@ -1,0 +1,12 @@
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Juancin\Documents\GitHub\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Juancin\Documents\GitHub\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\Documents\GitHub\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juancin\Documents\GitHub\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Juancin\Documents\GitHub\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juancin\Documents\GitHub\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.pdb
