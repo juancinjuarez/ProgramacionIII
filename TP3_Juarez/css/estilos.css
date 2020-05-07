@@ -1,0 +1,46 @@
+body
+{
+    background-color:lightgray;
+}
+h1{
+    color: teal;
+    font-size: 50;
+}
+
+h2{
+    color:green;
+    font-size: 30px;
+}
+
+p{
+    color: green;
+    font-size: large;
+}
+div
+{
+    text-align: center;
+}
+label
+{
+    display: inline-block;
+    width: 80px;    
+    border-style: groove;
+    line-height: 30pt;
+}
+img
+{
+    border-radius: 50%;
+    width: 200x;
+    height: 200px;
+    object-fit: cover;
+}
+input
+{
+    border-color: green;
+    border-style: inset;
+}
+button
+{
+    border-color: lightblue;
+    line-height: 30px;
+}
