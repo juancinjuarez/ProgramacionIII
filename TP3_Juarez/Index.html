@@ -7,42 +7,51 @@
     <link rel="stylesheet" href="css/estilos.css">
     <script src="js/funciones.js"></script>
 </head>
-<body style="background-color:lightgray;">
+<body background ="images/fondo.jpg">
     <center>
         <h1>¡HOLA! Mi nombre es Juan Manuel!</h1>
     
-    <h2>¡Soy un futuro desarrollador!</h2>
-
-    <p>Hola! Bienvenidos a mi primera aplicación web. Aqui encontraran acceso a mis redes sociales y parte de mi trabajo inicial
-        en el mundo de la programación web. Espero les sea de utilidad. Muchas gracias!
-    </p>
+    <h2>¡Soy un futuro desarrollador!</h2><img class="imagen" src="images/jmj.jpg" alt="Foto"/>
+    </center>
+    <p>Hola! Bienvenidos a mi primera aplicación. <br/><br/>
+       Encontraran acceso a mis redes sociales y parte de mi trabajo inicial <br/><br/>
+       en el mundo de la programación web. Espero les sea de utilidad. <br/><br/>
+       ¡Muchas Gracias!</p><br/>
     
+    <h3>Conocimientos: </h3>
+    <p>C++</p>
+    <p>SQL Server</p>
+    <p>HTML</p>
+    <p>CSS</p>
+    <center>
     <table> 
-        <tr>
-            <img src="images/Twitter.png" alt="twitter">
-            <td>    </td>
-            <img src="images/GitHub.png" alt="github">
-        </tr>
-    </table>
+          <tr>
+             <td><a href="https://twitter.com" target="blank"><img src="images/Twitter.png" alt="twitter"/></a></td>
+           
+              <td><a href="https://github.com/juancinjuarez" target="blank"><img src="images/Github.png" alt="Github"/></a></td>
+           
+            <td><a href="https://www.facebook.com/juanmanuel.juarez.9400/" target="blank"><img src="images/Facebook.jpg" alt="Facebook"/></a></td>
+         </tr>
+    </table><br/><br/>
     </center>
     <div>
         <li>
-             <label for="">NOMBRE: </label>
-             <input id="txtNombre" type="text" size="30">
+             <label style="color: tomato;" for="">Nombre: </label>
+             <input id="txtNombre" type="text" size="40" value="Ingrese su nombre y apellido: ">
         </li>
     </div>
     <div>
         <li>
-            <label for="">MAIL: </label> 
-            <input id="txtMail" type="text" size="30">
+            <label style="color: tomato;" for="">Mail: </label> 
+            <input id="txtMail" type="text" size="40" value="Ingrese su mail: ">
         </li>
     </div>
     <div>
         <li>
-            <label for="">MENSAJE: </label>
-            <input id="txtMensaje" type="text" size="30">
+            <label style="color: tomato;" for="" >Mensaje: </label>
+            <input id="txtMensaje" type="text" size="40" value="Ingrese un mensaje: ">
         </li>
-    </div>
+    </div><br/><br/>
     <div>
         <button onclick="validarDatos()">Enviar</button>
     </div>
